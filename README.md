@@ -8,7 +8,7 @@ simple instant restart and clear shell command to who ever that needs it
 
 ```sudo apt install git```
 
-```git clone https://github.com/96057/shutx.git```
+```git clone https://github.com/96057/xr.git```
 
 ```cd shutx```
 
